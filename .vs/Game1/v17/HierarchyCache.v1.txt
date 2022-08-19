@@ -1,0 +1,1047 @@
+﻿++Solution 'Game1' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Game1.sln
+++Game1
+i:{00000000-0000-0000-0000-000000000000}:Game1
+++Connected Services 
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>311
+++Dependencies
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>310
+++Imports
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>978
+++Properties
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\properties\
+++wwwroot
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\
+++css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\css\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\js\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\unix\lib\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\
+++favicon.ico
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\favicon.ico
+++bin
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\
+++Controllers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\controllers\
+++GameThingy1Controller.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\controllers\gamethingy1controller.cs
+++HomeController.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\controllers\homecontroller.cs
+++TestController.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\controllers\testcontroller.cs
+++Data
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\data\
+++Models
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\models\
+++ErrorViewModel.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\models\errorviewmodel.cs
+++GameThingy1.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\models\gamethingy1.cs
+++obj
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\
+++Debug
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\
+++Game1.csproj.nuget.dgspec.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\game1.csproj.nuget.dgspec.json
+++Game1.csproj.nuget.g.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\game1.csproj.nuget.g.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\game1.csproj.nuget.g.props
+++Game1.csproj.nuget.g.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\game1.csproj.nuget.g.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\game1.csproj.nuget.g.targets
+++project.assets.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\project.assets.json
+++project.nuget.cache
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\staticwebassets.pack.sentinel
+++Views
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\scopedcss\views\
+++GameThingy1
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\gamethingy1\
+++Home
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\home\
+++Shared
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\shared\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\scopedcss\views\shared\
+++_Layout.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\shared\error.cshtml
+++Test
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\test\
+++Index.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\test\index.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\gamethingy1\index.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\home\index.cshtml
+++Welcome.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\test\welcome.cshtml
+++_ViewImports.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\_viewstart.cshtml
+++appsettings.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\appsettings.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\appsettings.json
+++appsettings.Development.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\appsettings.development.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\appsettings.development.json
+++Program.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:Game1Context)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>971
+++Analyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:analyzers
+++Frameworks
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:frameworks
+++Packages
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:packages
+++Sdk.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++launchSettings.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\properties\launchsettings.json
+++serviceDependencies.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\properties\servicedependencies.json
+++serviceDependencies.local.json.user
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\properties\servicedependencies.local.json.user
+++site.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\css\site.css
+++site.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\js\site.js
+++bootstrap
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\
+++jquery
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery\
+++jquery-validation
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation-unobtrusive\
+++Game1Context.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\data\game1context.cs
+++net6.0
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\unix\lib\net6.0\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\net6.0\
+++Create.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\gamethingy1\create.cshtml
+++Delete.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\gamethingy1\delete.cshtml
+++Details.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\gamethingy1\details.cshtml
+++Edit.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\gamethingy1\edit.cshtml
+++Privacy.cshtml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\home\privacy.cshtml
+++_Layout.cshtml.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\views\shared\_layout.cshtml.css
+++MessagePackAnalyzer
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.7\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.8)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>336
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.8)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>338
+++Microsoft.EntityFrameworkCore.Tools (6.0.8)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>497
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.8)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>498
+++Swashbuckle.AspNetCore (6.3.0)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:>499
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.302\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.302\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.302\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.302\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.302\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.302\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.302\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.302\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++serviceDependencies.local.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\properties\servicedependencies.local.json
+++dist
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery\dist\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery\license.txt
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++ref
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\ref\
+++refint
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\refint\
+++scopedcss
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\scopedcss\
+++staticwebassets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\apphost.exe
+++Game1.AssemblyInfo.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.assemblyinfo.cs
+++Game1.AssemblyInfoInputs.cache
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.assemblyinfoinputs.cache
+++Game1.assets.cache
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.assets.cache
+++Game1.csproj.AssemblyReference.cache
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.csproj.assemblyreference.cache
+++Game1.csproj.BuildWithSkipAnalyzers
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.csproj.buildwithskipanalyzers
+++Game1.csproj.CopyComplete
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.csproj.copycomplete
+++Game1.csproj.CoreCompileInputs.cache
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.csproj.corecompileinputs.cache
+++Game1.csproj.FileListAbsolute.txt
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.csproj.filelistabsolute.txt
+++Game1.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\game1.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\ref\game1.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\refint\game1.dll
+++Game1.GeneratedMSBuildEditorConfig.editorconfig
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.generatedmsbuildeditorconfig.editorconfig
+++Game1.genruntimeconfig.cache
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.genruntimeconfig.cache
+++Game1.GlobalUsings.g.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.globalusings.g.cs
+++Game1.MvcApplicationPartsAssemblyInfo.cache
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.mvcapplicationpartsassemblyinfo.cache
+++Game1.MvcApplicationPartsAssemblyInfo.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.mvcapplicationpartsassemblyinfo.cs
+++Game1.pdb
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.pdb
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\game1.pdb
+++Game1.RazorAssemblyInfo.cache
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.razorassemblyinfo.cache
+++Game1.RazorAssemblyInfo.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\game1.razorassemblyinfo.cs
+++project.razor.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\project.razor.json
+++staticwebassets.build.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\staticwebassets.development.json
+++Microsoft.Common.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++jquery.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\
+++de
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\
+++es
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\
+++fr
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\
+++it
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\
+++ja
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\
+++ko
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\
+++pl
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\
+++pt-BR
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\
+++ru
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\
+++runtimes
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\
+++tr
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\
+++zh-Hans
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\
+++dotnet-aspnet-codegenerator-design.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+++Game1.deps.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\game1.deps.json
+++Game1.exe
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\game1.exe
+++Game1.runtimeconfig.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\game1.runtimeconfig.json
+++Game1.staticwebassets.runtime.json
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\game1.staticwebassets.runtime.json
+++Humanizer.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\humanizer.dll
+++MessagePack.Annotations.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\messagepack.annotations.dll
+++MessagePack.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\messagepack.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.Locator.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.build.locator.dll
+++Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.analyzerutilities.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Features.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.csharp.features.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Features.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.features.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.features.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Data.SqlClient.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.DiaSymReader.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.diasymreader.dll
+++Microsoft.DotNet.Scaffolding.Shared.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.dotnet.scaffolding.shared.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Identity.Client.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.openapi.dll
+++Microsoft.VisualStudio.Debugger.Contracts.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.visualstudio.debugger.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\net6.0\microsoft.win32.systemevents.dll
+++Newtonsoft.Json.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\newtonsoft.json.dll
+++NuGet.Common.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.common.dll
+++NuGet.Configuration.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.configuration.dll
+++NuGet.DependencyResolver.Core.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.dependencyresolver.core.dll
+++NuGet.Frameworks.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.frameworks.dll
+++NuGet.LibraryModel.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.librarymodel.dll
+++NuGet.Packaging.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.packaging.dll
+++NuGet.ProjectModel.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.projectmodel.dll
+++NuGet.Protocol.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.protocol.dll
+++NuGet.Versioning.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\nuget.versioning.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Composition.AttributedModel.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.drawing.common.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\unix\lib\net6.0\system.drawing.common.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\net6.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.runtime.caching.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\system.windows.extensions.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\net6.0\system.windows.extensions.dll
+++bundle
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\scopedcss\bundle\
+++projectbundle
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\scopedcss\projectbundle\
+++Microsoft.NuGet.ImportBefore.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files (x86)\microsoft sdks\typescript\4.3\build\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++bootstrap.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.features.resources.dll
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.scripting.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.features.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.scripting.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.scripting.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.features.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\unix\
+++win
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-x86\
+++Game1.styles.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\scopedcss\bundle\game1.styles.css
+++Game1.bundle.scp.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\scopedcss\projectbundle\game1.bundle.scp.css
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\swashbuckle.aspnetcore\6.3.0\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\microsoft.entityframeworkcore\6.0.8\buildtransitive\net6.0\microsoft.entityframeworkcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\microsoft.entityframeworkcore.design\6.0.8\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.android)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.ios)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maccatalyst)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.macos)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maui)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.tvos)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.emscripten)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.mono.toolchain)
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++04.03.05.00.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files (x86)\microsoft sdks\typescript\versions\04.03.05.00.props
+++bootstrap.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\jquery\dist\jquery.min.map
+++native
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-arm\native\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-x64\native\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-x86\native\
+++_Layout.cshtml.rz.scp.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+++Microsoft.NET.ILLink.Tasks.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++bootstrap.min.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++netcoreapp3.0
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Game1.csproj.user
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\game1.csproj.user
+++Microsoft.NET.props
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\users\lukasz\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++bootstrap.rtl.min.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Microsoft.Docker.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Migrations
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\migrations\
+++20220816080533_InitialCreate.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\migrations\20220816080533_initialcreate.cs
+++20220816080533_InitialCreate.Designer.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\migrations\20220816080533_initialcreate.designer.cs
+++Game1ContextModelSnapshot.cs
+i:{2a09d8ac-77a7-4ac5-8422-66d3bab09315}:c:\projects\tutorial projects\game1\game1\migrations\game1contextmodelsnapshot.cs
